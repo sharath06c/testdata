@@ -1,8 +1,8 @@
 {
-         id:1,
-         title: "My first post",
-         excerpt: "This is my first post with more content inside",
-         image: "https://bit.ly/2WNi2Ml"
+         "id":1,
+         "title": "My first post",
+         "excerpt": "This is my first post with more content inside",
+         "image": "https://bit.ly/2WNi2Ml"
         },
        
         {
