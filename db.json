@@ -1,4 +1,4 @@
-{        {
+{ "post" = [       {
          "id":1,
          "title": "My first post",
          "excerpt": "This is my first post with more content inside",
@@ -45,4 +45,5 @@
          "excerpt": "This is my sixth post with more content inside",
          "image": "https://www.gettyimages.com/gi-resources/images/500px/983794168.jpg"
         }
+]
 }
